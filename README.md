@@ -6,6 +6,10 @@
 ****hello****
 
 
+>iOS 端很多 app 早已经支持了 Markdown 录入，例如 Drafts，Day One，iA writer 等，另外 Ulysses for iPad 现在已经上架，可以说是 iOS 平台最好的编辑器了。
+
+
+
 >| one | two |  three  | four              |
 
 >|-----| :---: |  ---: |  ------  |
