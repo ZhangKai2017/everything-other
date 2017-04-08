@@ -52,11 +52,11 @@
 
 
 
-‘’‘
+‘
 # include <istream.h>
 # inppp
   int main(){
     print "hello"
     }
-’‘’
+’
 
